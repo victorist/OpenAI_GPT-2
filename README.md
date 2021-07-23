@@ -1,4 +1,5 @@
 **Status:** Archive (code is provided as-is, no updates expected)
+It's copy of the Open Ai's repository GPT-2 from July 28, 2021: https://github.com/openai/gpt-2
 
 # gpt-2
 
